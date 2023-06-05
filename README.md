@@ -1,6 +1,6 @@
 # 코딩 테스트 준비
 
-## 웹사이트
+## Online Judge
 * **국외**   
 codeforces: <https://codeforces.com/>   
 topcoder: <https://www.topcoder.com/>   
