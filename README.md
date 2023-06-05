@@ -12,3 +12,6 @@ codechef : <https://www.codechef.com/>
 코드업 : <https://codeup.kr/>   
 프로그래머스 : <https://programmers.co.kr/>   
 SW Expert Academy : <https://swexpertacademy.com/main/main.do>  
+
+* **참고**
+카카오 : <https://tech.kakao.com/>
