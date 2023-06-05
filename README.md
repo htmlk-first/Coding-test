@@ -17,4 +17,4 @@ SW Expert Academy : <https://swexpertacademy.com/main/main.do>
 카카오 : [https://tech.kakao.com/](https://tech.kakao.com/?s=%EC%BD%94%EB%94%A9+%ED%85%8C%EC%8A%A4%ED%8A%B8)
 
 ## 강의
-나동빈(이코테 2021강의) : [나동빈 유튜브](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+* 나동빈(이코테 2021강의) : [나동빈 유튜브](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
