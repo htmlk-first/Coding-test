@@ -1,7 +1,7 @@
 # 코딩 테스트 준비
 
 ## Online Judge
-* **국외**   
+* **해외**   
 codeforces: <https://codeforces.com/>   
 topcoder: <https://www.topcoder.com/>   
 leetcode: <https://leetcode.com/>   
